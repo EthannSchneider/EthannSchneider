@@ -3,6 +3,7 @@
   <img src="https://i.giphy.com/media/g7GKcSzwQfugw/giphy.gif" width="150"/>
 </div>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EthannSchneider&style=flat-square&color=green" alt=""/>
   <i>This is a github profile.</i>
 </div>
 <div align="center">
@@ -48,5 +49,3 @@
 <div align="center">
   <img src="https://shkermit.ch/ShkermitRTX.png" width="75"/>
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=79317638)
