@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/g7GKcSzwQfugw/giphy.gif" width="150"/>
 </div>
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=EthannSchneider&label=PROFILE+VIEWS)
+  ![](https://hit.yhype.me/github/profile?user_id=79317638)
   <i>This is a github profile.</i>
 </div>
 <div align="center">
