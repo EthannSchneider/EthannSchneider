@@ -4,7 +4,6 @@
 </div>
 <div align="center">
   <i>This is a github profile.</i>
-  <h3>but for a rick roll man.</h3>
 </div>
 <div align="center">
   ⣿⣿⣿⣿⣿⣿⣿⣧⣿⣴⣷⣟⠱⠟⡒⠿⠿⠦⢤⣤⡬⠍⠁⠠⠟⣿⣧⣤⣀⣸⣇⡀⠀⢠⣀⠟⠉⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿
@@ -32,4 +31,20 @@
   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣽⣿⣿⣦⡙⢦⡀⠀⠳⠬⠽⢯⣝⣿⣫⣹⠯⠄⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
   ⠛⠛⠋⠹⢿⣿⡿⢿⣿⣇⠀⠀⢸⣿⣿⣿⣟⣿⣟⣿⣿⣏⣿⣾⣟⢦⣀⠀⠀⠀⠈⠁⠈⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
   ⠀⠀⠀⠀⢀⣀⣠⣤⣭⣽⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣄⣀⣀⣤⣴⣾⣿⣿⣿⡟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+</div>
+
+## Features
+- HTML/CSS Javascript
+- Python
+- Flutter
+- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Discord</a>
+- SQL, SQlite, MySQL, MariaDB
+
+## TODO
+- Change readme.md
+- Add useful commanfs
+- Add Getting start part
+
+<div align="center">
+  <img src="https://shkermit.ch/ShkermitRTX.png" width="75"/>
 </div>
