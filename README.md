@@ -7,7 +7,7 @@
   <i>This is a github profile.</i>
   <h4>Of a man.</h4>
 </div>
-<div align="center" style="font-size: 6px;">
+<div align="center" style="font-size: 3px;">
   <p>
   ⣿⣿⣿⣿⣿⣿⣿⣧⣿⣴⣷⣟⠱⠟⡒⠿⠿⠦⢤⣤⡬⠍⠁⠠⠟⣿⣧⣤⣀⣸⣇⡀⠀⢠⣀⠟⠉⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿
   ⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡴⢿⣧⣴⡆⣠⠀⠈⠙⣦⡴⠖⠋⠉⠁⠀⠀⠀⠈⠉⠳⢦⣄⠈⠀⠀⠀⠀⠀⣸⠴⠾⠛⠿⣿⣿⣿⣿
