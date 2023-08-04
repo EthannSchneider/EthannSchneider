@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/g7GKcSzwQfugw/giphy.gif" width="150"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EthannSchneider&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=EthannSchneider&style=flat-square&color=green" alt=""/> <br>
   <i>This is a github profile.</i>
 </div>
 <div align="center">
