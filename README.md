@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EthannSchneider&style=flat-square&color=green" alt=""/> <br>
   <i>This is a github profile.</i>
-  <h4>Of a man.</h4>
+  <h4>Of a dude.</h4>
 </div>
 <div align="center">
   ⣿⣿⣿⣿⣿⣿⣿⣧⣿⣴⣷⣟⠱⠟⡒⠿⠿⠦⢤⣤⡬⠍⠁⠠⠟⣿⣧⣤⣀⣸⣇⡀⠀⢠⣀⠟⠉⠀⠀⠀⠀⠀⠀⢀⣽⣿⣿⣿⣿⣿
