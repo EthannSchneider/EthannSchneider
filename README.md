@@ -48,5 +48,7 @@
 - Add Getting start part
 
 <div align="center">
-  <img src="https://shkermit.ch/ShkermitRTX.png" width="75"/>
+  <a href="https://shkermit.ch">
+    <img src="https://shkermit.ch/ShkermitRTX.png" width="75"/>
+  </a>
 </div>
