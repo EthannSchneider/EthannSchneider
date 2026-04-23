@@ -1,15 +1,7 @@
 <div id="header" align="center">
   <h1>Ethann Schneider</h1>
-  <img src="https://i.giphy.com/media/g7GKcSzwQfugw/giphy.gif" width="150"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EthannSchneider&style=flat-square&color=green" alt=""/> <br>
   <i>This is a github profile.</i>
 </div>
-
-## Features
-- HTML/CSS Javascript
-- Python
-- Flutter
-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Discord</a>
-- SQlite, MySQL, MariaDB
